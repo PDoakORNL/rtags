@@ -34,5 +34,6 @@ matrix:
 branches:
     only:
         - master
+        - develop
 
 script: ./scripts/travis.sh
